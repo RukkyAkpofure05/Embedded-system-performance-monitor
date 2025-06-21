@@ -1,4 +1,4 @@
-# Embedded-system-performance-monitor
+# System-performance-monitor
 
 A lightweight, real-time system performance monitoring application built with Python and Tkinter. This application provides an intuitive GUI to monitor essential system metrics including CPU usage, RAM consumption, disk utilisation and network activity.
 
