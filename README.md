@@ -2,7 +2,7 @@
 
 A lightweight, real-time system performance monitoring application built with Python and Tkinter. This application provides an intuitive GUI to monitor essential system metrics including CPU usage, RAM consumption, disk utilisation and network activity.
 
-![system monitor](https://github.com/user-attachments/assets/8d6df6bb-43c7-4394-8605-1fc8222f08aa)
+![monitor 2](https://github.com/user-attachments/assets/5b8e2bfc-7ce7-4a72-a7f8-101a2b057109)
 
 
 ## Features
