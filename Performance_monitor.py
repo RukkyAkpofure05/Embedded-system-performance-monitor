@@ -1,7 +1,6 @@
 import psutil
 import tkinter as tk
 from tkinter import ttk
-from PIL import Image, ImageTk
 
 
 def get_network_speed():
