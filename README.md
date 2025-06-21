@@ -1,9 +1,8 @@
 # Embedded-system-performance-monitor
 
-A lightweight, real-time system performance monitoring application built with Python, Tkinter and Raspberry Pi Pico microcontroller. This application provides an intuitive GUI to monitor essential system metrics including CPU usage, RAM consumption, disk utilisation and network activity
+A lightweight, real-time system performance monitoring application built with Python and Tkinter. This application provides an intuitive GUI to monitor essential system metrics including CPU usage, RAM consumption, disk utilisation and network activity.
 
-![Screenshot 2024-06-28 000232](https://github.com/user-attachments/assets/2fa2e504-bf39-4d67-8509-4c9459aa1cc2)
-![working system prototype](https://github.com/user-attachments/assets/ed5fee59-d838-4630-ba72-3da3f751a456)
+![system monitor](https://github.com/user-attachments/assets/8d6df6bb-43c7-4394-8605-1fc8222f08aa)
 
 
 ## Features
